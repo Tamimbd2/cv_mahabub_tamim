@@ -1,0 +1,125 @@
+\documentclass[11pt]{article}
+\usepackage[margin=0.6in]{geometry}
+\usepackage{xcolor}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+
+% Define colors
+\definecolor{darkblue}{RGB}{0, 51, 102}
+
+% Remove page numbers
+\pagestyle{empty}
+
+% Reduce spacing between items
+\setlist[itemize]{itemsep=1pt, topsep=2pt, partopsep=0pt, leftmargin=16pt}
+\setlist[enumerate]{itemsep=1pt, topsep=2pt, partopsep=0pt}
+
+% Custom section formatting
+\renewcommand{\section}[1]{%
+  \vspace{5pt}%
+  \noindent\textbf{\normalsize #1}%
+  \vspace{2pt}%
+  \hrule%
+  \vspace{3pt}%
+}
+
+% Custom subsection formatting
+\renewcommand{\subsection}[1]{%
+  \vspace{2pt}%
+  \noindent\textbf{\small #1}%
+}
+
+\begin{document}
+
+% Header
+\begin{center}
+  \textbf{\Large MAHABUB ALAM TAMIM}\\
+  \small Software Developer (Flutter)\\
+  Khilkhet, Dhaka $\bullet$ 01744463419 $\bullet$ itstamim.ban@gmail.com\\
+  \href{https://tamimdev.tech}{www.tamimdev.tech} $\bullet$
+  \href{https://linkedin.com/in/MahabubTamim}{LinkedIn/in/mahabubtamim/} $\bullet$
+  \href{https://github.com/Tamimbd2}{GitHub.com/tamimbd2}
+\end{center}
+
+% Professional Summary
+\section{Professional Summary}
+\noindent Software Developer with hands-on experience in mobile and web application development, API integration, authentication mechanisms, and database management. Strong understanding of software engineering principles, system design fundamentals, and client--server architecture. Experienced in collaborative development workflows, version-controlled environments, and building secure, scalable real-world application systems.
+
+% Technical Skills
+\section{Technical Skills}
+\begin{itemize}
+  \item \textbf{Programming Languages:} Dart, JavaScript, C
+  \item \textbf{Application Development:} Mobile and Web Application Development, Client--Server Architecture
+  \item \textbf{Frameworks \& Libraries:} Flutter, React
+  \item \textbf{Backend \& APIs:} RESTful APIs, Firebase, JWT Authentication, HTTP/Dio
+  \item \textbf{Databases \& Storage:} Firebase Firestore, SQLite, Hive, Secure Local Storage
+  \item \textbf{Version Control \& Tools:} Git, GitHub, Postman, Android Studio, VS Code
+  \item \textbf{Operating Systems:} Windows, Linux (Basic)
+  \item \textbf{Other Skills:} API Testing, Debugging, Secure Data Handling, Documentation, Agile Collaboration
+\end{itemize}
+
+% Experience
+\section{Professional Experience}
+
+\subsection{Junior Software Developer -- SM Technology, Dhaka \hfill Nov 2025 -- Present}
+\begin{itemize}
+  \item Developed and maintained application systems across sports management, AI chatbot, and job portal domains
+  \item Integrated RESTful APIs to enable secure data exchange between frontend and backend services
+  \item Implemented authentication and authorization using JWT and secure local storage
+  \item Performed debugging, testing, and issue resolution to improve application reliability
+  \item Collaborated with cross-functional teams using Git-based workflows and agile methodologies
+\end{itemize}
+
+\subsection{Software Development Intern -- Zensoft Lab, Dhaka \hfill Aug 2025 -- Nov 2025}
+\begin{itemize}
+  \item Assisted in software development tasks following the Software Development Life Cycle (SDLC)
+  \item Worked on UI implementation, API integration, and database operations
+  \item Gained hands-on experience in debugging, testing, and performance optimization
+  \item Participated in code reviews, documentation, and agile team meetings
+\end{itemize}
+
+% Projects
+\section{Key Projects}
+
+\subsection{Job Portal Management System}
+\begin{itemize}
+  \item Designed and developed a job portal system supporting job seekers and employers
+  \item Implemented secure authentication and role-based access control
+  \item Integrated REST APIs for job listings, applications, and user management
+  \item Applied secure storage techniques for sensitive user data
+\end{itemize}
+
+\subsection{AI-Integrated Communication Application}
+\begin{itemize}
+  \item Developed an AI-powered application integrating third-party chatbot services
+  \item Managed API communication, request validation, and response processing
+  \item Implemented file and image upload functionality to enhance user interaction
+\end{itemize}
+
+\subsection{Sports Management Information System}
+\begin{itemize}
+  \item Built a role-based sports management system for referees, officials, and users
+  \item Implemented scheduling, request handling, and structured data management features
+  \item Applied authentication, authorization, and secure data storage practices
+\end{itemize}
+
+% Education
+\section{Education}
+\subsection{Bachelor of Science in Computer Science \& Engineering\\
+Green University of Bangladesh \hfill 2022 -- 2026}
+\begin{itemize}
+  \item CGPA: 65\% $\bullet$ Expected Graduation: 2026
+  \item Relevant Coursework: Mobile Application Development, Object-Oriented Programming, Data Structures & Algorithms, Database Management Systems, Software Engineering
+\end{itemize}
+
+% Achievements
+\section{Achievements}
+\begin{itemize}
+  \item Completed a professional software development internship at Zensoft Lab
+  \item Developed and deployed multiple real-world application systems
+  \item Implemented secure authentication and data handling mechanisms
+  \item Gained practical experience working with APIs, databases, and version control systems
+  \item Demonstrated effective collaboration in team-based IT environments
+\end{itemize}
+
+\end{document}
