@@ -1,0 +1,307 @@
+\documentclass[12pt]{article}
+
+% Page setup
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{setspace}
+\usepackage{graphicx}
+
+
+% Font
+\usepackage{times}
+
+\begin{document}
+\thispagestyle{empty}
+
+% =========================
+% Cover Page
+% =========================
+
+\vspace*{3cm}
+
+\begin{center}
+    {\Large \textbf{MAHABUB ALAM TAMIM}}
+\end{center}
+
+\vspace{1.5cm}
+
+\noindent
+ID: 221002257 \\[0.3cm]
+Course Code: PSD 400 \\[0.3cm]
+Course Title: Professional Life Skills Development \\[0.3cm]
+Computer Science \& Engineering (CSE) \\[0.3cm]
+Green University of Bangladesh (GUB)
+
+\newpage
+\thispagestyle{empty}
+
+% =========================
+% Introduction Page
+% =========================
+
+\begin{center}
+    \textbf{INTRODUCTION}
+\end{center}
+
+\vspace{0.8cm}
+
+\noindent
+I am Mahabub Alam Tamim, and I am currently pursuing my Bachelor of Science in Computer Science and Engineering at Green University of Bangladesh (GUB). I have completed most of my academic coursework with satisfactory results and have gained practical knowledge through both academic projects and professional experience. My time at this university has played a significant role in shaping my technical skills, discipline, and professional mindset.
+
+\vspace{0.4cm}
+
+\noindent
+I live in Dhaka, and my academic journey has been strongly influenced by my interest in technology and problem-solving. From an early stage of my education, I have been inclined toward computing and software development. Over the years, I have developed a strong passion for application development, system design, and learning modern technologies related to software engineering.
+
+\vspace{0.4cm}
+
+\noindent
+After completing my undergraduate degree, I plan to pursue higher studies in Computer Science and Engineering. I am particularly interested in advanced topics related to software engineering, system architecture, and emerging technologies. Studying at an international institution will allow me to gain exposure to a multicultural academic environment, collaborate with diverse individuals, and access advanced research facilities, which will enhance the quality of my education.
+
+\vspace{0.4cm}
+
+\noindent
+My long-term career goal is to build a strong professional profile as a skilled software engineer and contribute meaningfully to the technology sector. I am committed to continuous learning and professional growth, and I aspire to work in challenging environments where innovation, creativity, and technical excellence are encouraged. I believe that dedication, ethical practice, and lifelong learning are essential for success in the field of computer science.
+
+
+
+\newpage
+\thispagestyle{empty}
+
+\begin{center}
+    \textbf{TABLE OF CONTENTS}
+\end{center}
+
+\vspace{1cm}
+
+\begin{center}
+\begin{tabular}{|c|l|c|}
+\hline
+\textbf{Serial No} & \textbf{Content} & \textbf{Page No} \\
+\hline
+01 & Top Page & 01 \\
+\hline
+02 & Introduction & 02 \\
+\hline
+03 & Table of Contents & 03 \\
+\hline
+04 & Cover Letter & 04 \\
+\hline
+05 & Curriculum Vitae (CV) & 05--06 \\
+\hline
+06 & Professional Goal & 07 \\
+\hline
+07 & Certificates & 08--11 \\
+\hline
+\end{tabular}
+\end{center}
+
+
+
+\newpage
+\thispagestyle{empty}
+
+\noindent
+\textbf{Mahabub Alam Tamim} \\
+Khilkhet, Dhaka \\
+Mobile: 01744463419 \\
+Email: itstamim.ban@gmail.com
+
+\vspace{0.6cm}
+
+\noindent
+02\textsuperscript{nd} May, 2024
+
+\vspace{0.6cm}
+
+\noindent
+To \\
+The Hiring Manager, \\
+Green University of Banglasesh \\
+Dhaka, Bangladesh
+
+\vspace{0.4cm}
+
+\noindent
+\textbf{Subject: Application for the Post of Flutter Developer}
+
+\vspace{0.4cm}
+
+\noindent
+Dear Sir/Madam,
+
+\vspace{0.3cm}
+
+\noindent
+In response to your job advertisement, I would like to apply for the position of Flutter Developer. I am currently pursuing my Bachelor of Science in Computer Science and Engineering at Green University of Bangladesh (GUB), and I have hands-on experience in mobile application development using Flutter.
+
+\vspace{0.3cm}
+
+\noindent
+I have worked on several academic and professional projects involving Flutter, REST API integration, Firebase services, authentication mechanisms, and responsive UI design. I am confident that my technical skills, problem-solving ability, and passion for mobile application development will allow me to contribute effectively to your development team.
+
+\vspace{0.3cm}
+
+\noindent
+I am eager to work in a professional environment where I can further enhance my skills, gain industry-level experience, and contribute to building high-quality and scalable mobile applications. I strongly believe that working as a Flutter Developer in your organization will provide me with an excellent opportunity for professional growth.
+
+\vspace{0.3cm}
+
+\noindent
+Thank you very much for your time and consideration. I look forward to the opportunity to discuss how my skills and enthusiasm can be beneficial to your organization.
+
+\vspace{0.8cm}
+
+\noindent
+Sincerely, \\[0.6cm]
+Mahabub Alam Tamim
+
+\vspace{0.6cm}
+
+\noindent
+\textbf{Enclosure}
+\begin{enumerate}
+    \item Curriculum Vitae (CV)
+    \item Attested copies of certificates
+\end{enumerate}
+
+\newpage
+\thispagestyle{empty}
+
+% =========================
+% CV PAGE (Page 5–6)
+% =========================
+
+\noindent
+\begin{minipage}[c]{0.70\textwidth}
+    {\Large \textbf{MAHABUB TAMIM}} \\[0.3cm]
+    Present and Mailing Address: \\
+    Palashbari, Gaibandha \\[0.2cm]
+    Mobile: 01744463419 \\
+    E-mail: itstamim.ban@gmail.com
+\end{minipage}
+\hfill
+\begin{minipage}[c]{0.25\textwidth}
+    \centering
+    \includegraphics[width=3.2cm,height=4cm,keepaspectratio]{cvphoto.png}
+\end{minipage}
+
+
+\vspace{0.4cm}
+\hrule
+\vspace{0.4cm}
+
+\noindent
+\textbf{Career Objective:} \\
+To build a professional and challenging career in the field of software development, particularly in mobile application development, where I can apply my technical knowledge, improve my skills, and contribute effectively to organizational growth.
+
+\vspace{0.4cm}
+
+\noindent
+\textbf{Academic Records:}
+
+\begin{itemize}
+    \item \textbf{Bachelor of Science (B.Sc.) in Computer Science \& Engineering}
+    \begin{itemize}
+        \item Institution: Green University of Bangladesh
+        \item Year: 2026
+        \item Result: Cumulative Percentage 65\%
+    \end{itemize}
+
+    \item \textbf{Higher Secondary Certificate (H.S.C)}
+    \begin{itemize}
+        \item Institution: Cantonment School and College, Rangpur
+        \item Year: 2020
+        \item Result: Cumulative Percentage 95\%
+    \end{itemize}
+
+    \item \textbf{Secondary School Certificate (S.S.C)}
+    \begin{itemize}
+        \item Institution: Shishu Kanon School and College
+        \item Year: 2018
+        \item Result: Cumulative Percentage 95\%
+    \end{itemize}
+\end{itemize}
+
+\vspace{0.4cm}
+
+\noindent
+\textbf{Computer Skills:}
+\begin{itemize}
+    \item Programming Languages: Dart, Java, C
+    \item Frameworks \& Tools: Flutter, Firebase, REST API
+    \item Operating Systems: Windows, Linux (Basic)
+    \item Office Applications: MS Word, MS PowerPoint, MS Excel
+\end{itemize}
+
+\newpage
+\thispagestyle{empty}
+
+\noindent
+\textbf{Language Proficiency:} \\
+Good communication skills in both Bengali and English.
+
+\vspace{0.4cm}
+
+\noindent
+\textbf{Extra-Curricular Activities:}
+\begin{itemize}
+    \item Interested in learning new technologies
+    \item Mobile application development practice
+    \item Traveling and exploring new places
+    \item Self-motivated and able to work under pressure
+    \item Friendly and cooperative personality
+    \item Willingness to accept challenges
+\end{itemize}
+
+\vspace{0.4cm}
+
+\noindent
+\textbf{Personal Information:}
+
+\begin{tabular}{ll}
+Name & : Mahabub Tamim \\
+Father's Name & : Md. Abu Hanifa Sarder \\
+Mother's Name & : Momotaj Begum \\
+Present Address & : Palashbari, Gaibandha \\
+Date of Birth & : 15 May, 2003 \\
+Religion & : Islam \\
+Nationality & : Bangladeshi \\
+Marital Status & : Unmarried \\
+\end{tabular}
+
+\vspace{5cm}
+
+\noindent
+Signature: \hspace{10 cm} Date: 02\textsuperscript{nd} May, 2024
+
+\vspace{0.6cm}
+
+\noindent\\
+(Mahabub Tamim)
+
+\newpage
+\thispagestyle{empty}
+
+\begin{center}
+    \textbf{\Large Professional Goal}
+\end{center}
+
+\vspace{0.8cm}
+
+\noindent
+My professional goal is to become a skilled and responsible Flutter Developer, contributing to the development of high-quality, user-friendly, and scalable mobile applications. I aim to apply my academic knowledge in Computer Science and Engineering along with practical experience in Flutter, API integration, and modern application architectures to solve real-world problems effectively.
+
+\vspace{0.4cm}
+
+\noindent
+I am passionate about mobile application development and continuously improving my technical expertise in Flutter, Firebase, RESTful APIs, and software engineering best practices. I aspire to work in a professional environment where innovation, collaboration, and continuous learning are encouraged, enabling me to grow both technically and professionally.
+
+\vspace{0.4cm}
+
+\noindent
+In addition to technical growth, I value teamwork, responsibility, and adaptability. I believe that effective communication and problem-solving skills are essential for delivering successful software solutions. My long-term objective is to establish myself as a proficient software developer and contribute meaningfully to the technology industry through dedication, ethical practice, and lifelong learning.
+
+
+
+
+\end{document}
